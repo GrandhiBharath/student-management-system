@@ -1,0 +1,14 @@
+#navlist{
+    padding-left: 100px;
+}
+body{
+    background-image: url(https://vignanits.ac.in/wp-content/uploads/2020/07/IMG-20200713-WA0016.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-custom {
+    background-color:  	#7393B3;
+}
+#colour{
+    color: black;
+}
